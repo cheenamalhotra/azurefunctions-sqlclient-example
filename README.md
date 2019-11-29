@@ -5,6 +5,7 @@
 1. .NET Core _3.0_. [Download Link](https://dotnet.microsoft.com/download/dotnet-core/3.0)
 2. Microsoft.NET.Sdk.Functions _3.0.0-preview2_
 3. Microsoft.Data.SqlClient _v1.1.0_
+4. Azure Functions Version _v1_
 
 ## Steps to run this Example:
 
