@@ -7,6 +7,11 @@
 3. Microsoft.Data.SqlClient _v1.1.0_
 4. Azure Functions Version _v2_
 
+## Azure Functions Versions for testing
+
+- Branch [af-v1](https://github.com/cheenamalhotra/azurefunctions-sqlclient-example/tree/af-v1) contains example for working with Azure Functions **v1**
+- Branch [af-v3](https://github.com/cheenamalhotra/azurefunctions-sqlclient-example/tree/af-v3) contains example for working with Azure Functions **v3-preview**
+
 ## Steps to run this Example:
 
 1. Clone or download this project
