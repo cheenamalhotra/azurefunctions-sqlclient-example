@@ -4,7 +4,7 @@
 
 1. .NET Core _3.1-preview3_. [Download Link](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 2. Microsoft.NET.Sdk.Functions _3.0.0-preview2_
-3. Microsoft.Data.SqlClient _v1.1.0_
+3. Microsoft.Data.SqlClient _v3.1.5_
 4. Azure Functions Version _v2_
 
 ## Azure Functions Versions for testing
